@@ -1,0 +1,61 @@
+{
+    "compilerOptions": {
+        // "allowSyntheticDefaultImports": true,
+        "baseUrl": "./",
+        "esModuleInterop": true,
+        "jsx": "react-jsx",
+        "module": "AMD",
+        "moduleResolution": "node",
+        "paths": {
+            "*": [
+                "sources/edo/core/client/*",
+                "sources/edo/edo-client/client/*",
+                "sources/eo/core/client/*",
+                "sources/eo/custom-ui/client/*",
+                "sources/eo/registry/client/*",
+                "sources/fed/core/client/*",
+                "sources/notice/engine/client/*",
+                "sources/root/sbis3-docview/*",
+
+                "sources/saby/types/*",
+                "sources/saby/ui/*",
+                "sources/saby/wasaby-app/src/*",
+                "sources/saby/wasaby-controls/*",
+                "sources/saby/wasaby-requirejs-loader/*",
+                "sources/sbis/core/*",
+                "sources/sbis/engine/client/*",
+                "sources/sbis/rmi/src/client/*",
+                "sources/sbis/ws/*",
+            ],
+            "Core/*": [
+                "sources/sbis/ws/WS.Core/core/*"
+            ],
+            "UICore/*": [
+                "sources/saby/ui/UIReact/UICore/*"
+            ],
+            "Lib/*": [
+                "sources/sbis/ws/WS.Core/lib/*"
+            ]
+        },
+        "strict": true,
+        "target": "ES2021",
+        "typeRoots": [
+            "../../node_modules/@types"
+        ],
+        "types": [
+            "node",
+            "jest"
+        ]
+    },
+    // "include": [
+    //     "./**/*.ts",
+    //     "./**/*.tsx"
+    // ],
+    // "files": [
+    //     "../mocks/global.d.ts"
+    // ]
+
+    // "ts-node": {
+    //     "transpileOnly": true,
+    // }
+}

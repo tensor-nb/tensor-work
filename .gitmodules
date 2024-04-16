@@ -1,0 +1,114 @@
+[submodule "sources/eo/attachments"]
+	path = sources/eo/attachments
+	url = git@git.sbis.ru:eo/attachments.git
+[submodule "sources/eo/core"]
+	path = sources/eo/core
+	url = git@git.sbis.ru:eo/core.git
+[submodule "sources/eo/custom-ui"]
+	path = sources/eo/custom-ui
+	url = git@git.sbis.ru:eo/custom-ui.git
+[submodule "sources/eo/demands"]
+	path = sources/eo/demands
+	url = git@git.sbis.ru:eo/demands.git
+[submodule "sources/eo/employees"]
+	path = sources/eo/employees
+	url = git@git.sbis.ru:eo/employees.git
+[submodule "sources/eo/np"]
+	path = sources/eo/np
+	url = git@git.sbis.ru:eo/np.git
+[submodule "sources/eo/collation"]
+	path = sources/eo/collation
+	url = git@git.sbis.ru:eo/collation.git
+[submodule "sources/eo/inspector"]
+	path = sources/eo/inspector
+	url = git@git.sbis.ru:eo/inspector.git
+[submodule "sources/eo/engine"]
+	path = sources/eo/engine
+	url = git@git.sbis.ru:eo/engine.git
+[submodule "sources/eo/offline"]
+	path = sources/eo/offline
+	url = git@git.sbis.ru:eo/offline.git
+[submodule "sources/eo/registry"]
+	path = sources/eo/registry
+	url = git@git.sbis.ru:eo/registry.git
+[submodule "sources/eo/separate-divisions"]
+	path = sources/eo/separate-divisions
+	url = git@git.sbis.ru:eo/separate-divisions.git
+[submodule "sources/eo/requirement-parser"]
+	path = sources/eo/requirement-parser
+	url = git@git.sbis.ru:eo/requirement-parser.git
+[submodule "sources/eo/requirement-processing-service"]
+	path = sources/eo/requirement-processing-service
+	url = git@git.sbis.ru:eo/requirement-processing-service.git
+[submodule "sources/eo/ub"]
+	path = sources/eo/ub
+	url = git@git.sbis.ru:eo/ub.git
+[submodule "sources/edo/core"]
+	path = sources/edo/core
+	url = git@git.sbis.ru:edo/core.git
+[submodule "sources/edo/edo-client"]
+	path = sources/edo/edo-client
+	url = git@git.sbis.ru:edo/edo-client.git
+[submodule "sources/edo/regulation"]
+	path = sources/edo/regulation
+	url = git@git.sbis.ru:edo/regulation.git
+[submodule "sources/disk/client"]
+	path = sources/disk/client
+	url = git@git.sbis.ru:disk/client.git
+[submodule "sources/fed/core"]
+	path = sources/fed/core
+	url = git@git.sbis.ru:fed/core.git
+[submodule "sources/fed/specifications"]
+	path = sources/fed/specifications
+	url = git@git.sbis.ru:fed/specifications.git
+[submodule "sources/root/sbis3-docview"]
+	path = sources/root/sbis3-docview
+	url = git@git.sbis.ru:root/sbis3-docview.git
+[submodule "sources/saby/builder"]
+	path = sources/saby/builder
+	url = git@git.sbis.ru:/saby/builder.git
+[submodule "sources/saby/types"]
+	path = sources/saby/types
+	url = git@git.sbis.ru:saby/types.git
+[submodule "sources/saby/ui"]
+	path = sources/saby/ui
+	url = git@git.sbis.ru:saby/ui.git
+[submodule "sources/saby/wasaby-app"]
+	path = sources/saby/wasaby-app
+	url = git@git.sbis.ru:saby/wasaby-app.git
+[submodule "sources/saby/wasaby-controls"]
+	path = sources/saby/wasaby-controls
+	url = git@git.sbis.ru:saby/wasaby-controls.git
+[submodule "sources/sbis/core"]
+	path = sources/sbis/core
+	url = git@git.sbis.ru:sbis/core.git
+[submodule "sources/sbis/engine"]
+	path = sources/sbis/engine
+	url = git@git.sbis.ru:sbis/engine.git
+[submodule "sources/sbis/ws"]
+	path = sources/sbis/ws
+	url = git@git.sbis.ru:sbis/ws.git
+[submodule "sources/staff/staff"]
+	path = sources/staff/staff
+	url = git@git.sbis.ru:staff/staff.git
+[submodule "sources/sbis/rmi"]
+	path = sources/sbis/rmi
+	url = git@git.sbis.ru:sbis/rmi.git
+[submodule "sources/saby/i18n"]
+	path = sources/saby/i18n
+	url = git@git.sbis.ru:saby/i18n.git
+[submodule "sources/saby/wasaby-requirejs-loader"]
+	path = sources/saby/wasaby-requirejs-loader
+	url = git@git.sbis.ru:saby/wasaby-requirejs-loader.git
+[submodule "app/lint-configs"]
+	path = app/lint-configs
+	url = https://github.com/icw82/lint-configs.git
+[submodule "app/ya-ws-builder"]
+	path = app/ya-ws-builder
+	url = https://github.com/icw82/ya-ws-builder
+[submodule "sources/notice/engine"]
+	path = sources/notice/engine
+	url = git@git.sbis.ru:notice/engine.git
+[submodule "sources/engine/saby-page"]
+	path = sources/engine/saby-page
+	url = git@git.sbis.ru:engine/saby-page.git

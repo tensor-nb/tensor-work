@@ -1,0 +1,12 @@
+# Для локальных файлов
+/.local
+
+# Исходники
+/sources/.*
+
+# Сборки
+/builds
+
+# NodeJS + NPM
+/node_modules
+/package-lock.json
