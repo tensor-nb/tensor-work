@@ -38,7 +38,7 @@
             ]
         },
         "strict": true,
-        "target": "ES2021",
+        "target": "ES2019",
         "typeRoots": [
             "../../node_modules/@types"
         ],

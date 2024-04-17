@@ -14,6 +14,13 @@ global.requirejs = requirejs;
 //     //
 // });
 
+jest.mock('UICore/_jsx/runtime', () => (
+    {
+        __esModule: true,
+        // ...jest.requireActual('UICore/_jsx/runtime')
+    }
+));
+
 jest.mock('vm', () => {
     const vm = jest.createMockFromModule<typeof import('vm')>('vm');
 
@@ -33,7 +40,7 @@ jest.mock('Env/UserInfo', () => {
     }
 });
 
-jest.mock('Core/UserInfo', () => {
+jest.mock('EngineUser/_info/Info', () => {
     // const UserInfo = import('../../sources/sbis/ws/WS.Core/core/UserInfo');
     // throw new Error(JSON.stringify(Object.keys(UserInfo)));
 
