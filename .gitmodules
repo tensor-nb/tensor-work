@@ -112,3 +112,6 @@
 [submodule "sources/engine/saby-page"]
 	path = sources/engine/saby-page
 	url = git@git.sbis.ru:engine/saby-page.git
+[submodule "sources/eo/taxmon_srv"]
+	path = sources/eo/taxmon_srv
+	url = git@git.sbis.ru:eo/taxmon_srv.git
